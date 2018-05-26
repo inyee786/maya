@@ -27,7 +27,7 @@ import (
 
 var (
 	volumeCreateCommandHelpText = `
-	Usage: maya volume create -volname <vol> [-size <size>]
+	Usage: mayactl volume create -volname <vol> [-size <size>]
 
 	This command creates a new Volume.
 
